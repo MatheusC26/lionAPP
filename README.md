@@ -37,9 +37,13 @@ Se quiser contribuir para melhorias no **Lion APP**, siga estes passos:
 2. Sugira melhorias para fórmulas ou estrutura da planilha  
 3. Compartilhe suas contribuições via Pull Request  
 
-## 📜 Licença  
+## 📧 Contato  
 
-Este projeto está sob a licença [Nome da Licença](link).  
+Caso tenha dúvidas, sugestões ou precise de suporte, entre em contato:  
+- 📩 Email: rdcarvalho26martins@gmail.com
+- 🌐 GitHub:https://github.com/MatheusC26
+- 🔗 LinkedIn:https://www.linkedin.com/in/matheuscarvalhoadm/
+  
 
 ---  
 Feito com ❤️ por [Matheus](https://github.com/seu-usuario)  
